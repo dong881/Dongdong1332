@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dongdong1332, you can call me Dong dong, and my name is Ming Hung Hsu. Nice to meet you!
+- 👋 Hi, I’m @Dongdong881, you can call me Dong dong, and my name is Ming Hung Hsu. Nice to meet you!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, Golang, C++, HTML, CSS, JS, TypeScript.
+- 🌱 I’m currently learning python, Golang, C++, HTML, CSS, JS, Vue, 5G NR relate.
 - 💞️ I’m looking to collaborate on big project.
 - 📫 dongdonghsu19@gmail.com
 
