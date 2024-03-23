@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, Golang, C++, HTML, CSS, JS, Vue, 5G NR relate.
 - 💞️ I’m looking to collaborate on big project.
-- 📫 dongdonghsu19@gmail.com
+- 📫 minghunghsu.taiwan@gmail.com
 
 
 <!---
